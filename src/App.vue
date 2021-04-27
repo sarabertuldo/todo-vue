@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="container">
     <img alt="Vue logo" src="./images/charlie.jpg">
-    <TodoList msg="Sara's Vue Todo App"/>
+    <TodoList> </TodoList>
   </div>
 </template>
 
