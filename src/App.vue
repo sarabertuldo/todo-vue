@@ -2,6 +2,7 @@
   <div id="app" class="container">
     <img alt="Vue logo" src="./images/charlie.jpg">
     <TodoList> </TodoList>
+    <a href="https://github.com/sarabertuldo/"><img alt="made by sara bertuldo" src="./images/madebysb.png"></a>
   </div>
 </template>
 
